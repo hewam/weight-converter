@@ -1,4 +1,4 @@
-#weight converter
+# weight converter
 weight = int(input('weight:'))
 unit = input('(L)bs or (K)g:')
 if unit.upper()=='L':
